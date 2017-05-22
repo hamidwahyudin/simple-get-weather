@@ -4,7 +4,7 @@
 
 * Quick summary
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [Learn Markdown](#)
 
 ### How do I get set up? ###
 
